@@ -1,16 +1,4 @@
-class Solution(object):
-    def maxProduct(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        maxi=0
-        inp=str(n)
-        for i in range(len(inp)):
-            for j in range(i+1,len(inp)):
-                prod=int(inp[i])*int(inp[j])
-                maxi=max(maxi,prod)   
-
-        return maxi
-
-
+from math import prod
+class Solution:
+    def maxProduct(self, n: int) -> int:
+        return prod(sorted(map(int,str(n)))[-2:])
