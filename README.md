@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/raunakrr/python-leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raunakrr/python-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/raunakrr/python-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raunakrr/python-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
