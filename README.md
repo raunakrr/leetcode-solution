@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0015-3sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/raunakrr/python-leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunakrr/python-leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/raunakrr/python-leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
