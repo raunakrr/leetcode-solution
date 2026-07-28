@@ -3,31 +3,27 @@ class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if len(t)>len(s):
             return "" 
+        countT=Counter(t)
+        window={}
+        need,have=len(countT),0
         l=0
-        res=""
-        minn=float("inf")
-        sub=Counter(t)
-        wind=Counter()
+        res,reslen=[-1,-1],float("inf")
         for r in range(len(s)):
-            wind.update(s[r])
-            w=(r-l)+1
-            if sub<=wind:
-                if minn>=w:
-                    res=s[l:r+1]
-                minn=min(minn,w)
-                
-            while sub<=wind:
-                wind[s[l]]-=1
+            window[s[r]]=1+window.get(s[r],0)
+            if s[r] in countT and window[s[r]]==countT[s[r]]:
+                have+=1
+            while have==need:
+                if (r-l+1)<reslen:
+                    res=[l,r]
+                    reslen=r-l+1
+                window[s[l]]-=1
+                if s[l] in countT and window[s[l]] < countT[s[l]]:
+                    have-=1
                 l+=1
-                w=r-l+1
-                if w<minn:
-                    minn=w
-                    res=s[l-1:r+1]
-                
-                
-        if minn==float("inf"):
+        l,r=res                      
+        if reslen==float("inf"):
             return ""
-        return res
+        return s[l:r+1]
 
 
             
