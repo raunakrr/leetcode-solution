@@ -87,8 +87,13 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/raunakrr/python-leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/raunakrr/python-leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/raunakrr/python-leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
