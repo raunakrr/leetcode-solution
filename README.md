@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/raunakrr/python-leetcode-solution/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunakrr/python-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/raunakrr/python-leetcode-solution/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/raunakrr/python-leetcode-solution/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/raunakrr/python-leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunakrr/python-leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/raunakrr/python-leetcode-solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
