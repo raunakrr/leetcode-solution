@@ -36,6 +36,7 @@
 | [0011-container-with-most-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/raunakrr/python-leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/raunakrr/python-leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Binary Search
@@ -78,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunakrr/python-leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/raunakrr/python-leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/raunakrr/python-leetcode-solution/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/raunakrr/python-leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunakrr/python-leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/raunakrr/python-leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Sliding Window
