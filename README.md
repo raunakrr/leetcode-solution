@@ -94,6 +94,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/raunakrr/python-leetcode-solution/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/raunakrr/python-leetcode-solution/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raunakrr/python-leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
