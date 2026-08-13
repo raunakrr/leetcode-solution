@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/raunakrr/python-leetcode-solution/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -27,6 +28,7 @@
 | [0076-minimum-window-substring](https://github.com/raunakrr/python-leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/raunakrr/python-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunakrr/python-leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/raunakrr/python-leetcode-solution/tree/master/0567-permutation-in-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Union-Find
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0015-3sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
