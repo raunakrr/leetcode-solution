@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/raunakrr/python-leetcode-solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/raunakrr/python-leetcode-solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Matrix
 |  |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/raunakrr/python-leetcode-solution/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/raunakrr/python-leetcode-solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/raunakrr/python-leetcode-solution/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/raunakrr/python-leetcode-solution/tree/master/0231-power-of-two) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/raunakrr/python-leetcode-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
