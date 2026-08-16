@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/raunakrr/python-leetcode-solution/tree/master/0877-stone-game) |
@@ -28,6 +29,7 @@
 | [0036-valid-sudoku](https://github.com/raunakrr/python-leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/raunakrr/python-leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/raunakrr/python-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunakrr/python-leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/raunakrr/python-leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -52,6 +54,7 @@
 | [0035-search-insert-position](https://github.com/raunakrr/python-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/raunakrr/python-leetcode-solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +63,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -109,6 +113,7 @@
 | [0069-sqrtx](https://github.com/raunakrr/python-leetcode-solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/raunakrr/python-leetcode-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/raunakrr/python-leetcode-solution/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/raunakrr/python-leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -153,6 +158,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/raunakrr/python-leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/raunakrr/python-leetcode-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/raunakrr/python-leetcode-solution/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
