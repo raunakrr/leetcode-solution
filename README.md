@@ -18,6 +18,7 @@
 | [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/raunakrr/python-leetcode-solution/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -56,6 +57,7 @@
 | [0069-sqrtx](https://github.com/raunakrr/python-leetcode-solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raunakrr/python-leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
