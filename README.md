@@ -58,6 +58,7 @@
 | [0069-sqrtx](https://github.com/raunakrr/python-leetcode-solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/raunakrr/python-leetcode-solution/tree/master/0278-first-bad-version) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
@@ -185,4 +186,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/raunakrr/python-leetcode-solution/tree/master/0724-find-pivot-index) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/raunakrr/python-leetcode-solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
