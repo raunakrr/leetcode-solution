@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/raunakrr/python-leetcode-solution/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/raunakrr/python-leetcode-solution/tree/master/0724-find-pivot-index) |
@@ -52,6 +53,7 @@
 | [0125-valid-palindrome](https://github.com/raunakrr/python-leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/raunakrr/python-leetcode-solution/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/raunakrr/python-leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
