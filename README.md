@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/raunakrr/python-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/raunakrr/python-leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunakrr/python-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/raunakrr/python-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -47,6 +48,7 @@
 | [0011-container-with-most-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raunakrr/python-leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakrr/python-leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0189-rotate-array) |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunakrr/python-leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
