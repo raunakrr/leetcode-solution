@@ -1,10 +1,15 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        for(int i=0;i<n;i++){
-            nums1[m+i]=nums2[i];
+        int i=n-1,j=m-1,k=m+n-1;
+        while(i>=0  ){
+            if(j>=0 && nums2[i]<nums1[j]){
+                nums1[k--]=nums1[j--];   
+            }
+            else{
+                nums1[k--]=nums2[i--];
+            }
         }
-        sort(nums1.begin(),nums1.end());
         
     }
 };
