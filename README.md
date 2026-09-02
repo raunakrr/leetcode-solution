@@ -26,6 +26,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raunakrr/python-leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raunakrr/python-leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/raunakrr/python-leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunakrr/python-leetcode-solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunakrr/python-leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raunakrr/python-leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
