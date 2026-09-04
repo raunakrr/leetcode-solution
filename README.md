@@ -24,6 +24,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/raunakrr/python-leetcode-solution/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/raunakrr/python-leetcode-solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raunakrr/python-leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raunakrr/python-leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raunakrr/python-leetcode-solution/tree/master/3875-construct-uniform-parity-array-i) |
