@@ -2,16 +2,11 @@ class Solution {
 public:
     bool check(vector<int>& nums) {
         int n=nums.size();
-        vector<int> temp(n);
-        vector<int> temp2(n);
-        temp=nums;
-        sort(temp.begin(),temp.end());
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                temp2[(j+i)%n]=nums[j];
-            }
-            if(temp==temp2) return true;
+        int count=0;
+        for(int i=1;i<n;i++){
+            if(nums[i-1]>nums[i]) count++;
         }
-        return false;
+        if(nums[n-1]>nums[0]) count++;
+        return count<=1;
     }
 };
