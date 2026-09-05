@@ -102,6 +102,7 @@
 | [0020-valid-parentheses](https://github.com/raunakrr/python-leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/raunakrr/python-leetcode-solution/tree/master/0155-min-stack) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/raunakrr/python-leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0344-reverse-string](https://github.com/raunakrr/python-leetcode-solution/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunakrr/python-leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/raunakrr/python-leetcode-solution/tree/master/0567-permutation-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/raunakrr/python-leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/raunakrr/python-leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raunakrr/python-leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Ternary Search
 |  |
