@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/raunakrr/python-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/raunakrr/python-leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/raunakrr/python-leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunakrr/python-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/raunakrr/python-leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/raunakrr/python-leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/raunakrr/python-leetcode-solution/tree/master/0054-spiral-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/raunakrr/python-leetcode-solution/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/raunakrr/python-leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raunakrr/python-leetcode-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Ternary Search
