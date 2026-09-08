@@ -9,8 +9,8 @@ public:
         while(rowIndex<row && colIndex>=0){
             int element=matrix[rowIndex][colIndex];
             if(element==target) return true;
-            else if(element < target) rowIndex++;
-            else colIndex--;
+            else if(element < target) rowIndex++; // element can't exist in the same row so row++
+            else colIndex--; // element can't exist in that element so col--
         }
         return false;
     }
