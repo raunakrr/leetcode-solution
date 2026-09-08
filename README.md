@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/raunakrr/python-leetcode-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/raunakrr/python-leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/raunakrr/python-leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/raunakrr/python-leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raunakrr/python-leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunakrr/python-leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/raunakrr/python-leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/raunakrr/python-leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raunakrr/python-leetcode-solution/tree/master/0054-spiral-matrix) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/raunakrr/python-leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raunakrr/python-leetcode-solution/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/raunakrr/python-leetcode-solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/raunakrr/python-leetcode-solution/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/raunakrr/python-leetcode-solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/raunakrr/python-leetcode-solution/tree/master/0231-power-of-two) |
