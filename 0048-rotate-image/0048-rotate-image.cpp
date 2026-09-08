@@ -4,8 +4,6 @@ public:
         int maxr=matrix.size();
         int maxc=matrix[0].size();
         int minr=0,minc=0;
-        int tne=maxc*maxr;
-        int count=0;
         for(int i=0;i<maxr;i++){
             for(int j=i;j<maxc;j++){ //or j=0;j<i
                 int temp = matrix[i][j];
